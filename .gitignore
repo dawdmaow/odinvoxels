@@ -1,1 +1,4 @@
 odin_voxels
+*.dSYM/
+.vscode
+ols.json
