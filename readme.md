@@ -7,6 +7,9 @@ A Minecraft-like-like voxel engine.
 - water with opacity, swimming
 - fog
 
+# Video
+[![Video](https://img.youtube.com/vi/j48OhPSgW_w/0.jpg)](https://www.youtube.com/watch?v=j48OhPSgW_w)
+
 ## Deps
 - Raylib
 - Odin
