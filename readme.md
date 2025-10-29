@@ -8,7 +8,7 @@ A Minecraft-like-like voxel engine.
 - fog
 
 # Video
-[![Video](https://img.youtube.com/vi/j48OhPSgW_w/0.jpg)](https://www.youtube.com/watch?v=j48OhPSgW_w)
+[![Video](https://img.youtube.com/vi/DnIHG7QrH4w/0.jpg)](https://www.youtube.com/watch?v=DnIHG7QrH4w)
 
 ## Deps
 - Raylib
